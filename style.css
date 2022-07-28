@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+div {
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    width: 275px;
+    margin: 100px auto;
+    height: 467px;
+}
+
+div img {
+    width: 245px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+div h2 {
+    font-family: outlet;
+    font-size: 23px;
+    text-align: center;  
+    line-height: 30px;
+    font-weight: 700;  
+}
+
+div p {
+    font-family: outlet;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 12px;
+    font-weight: 400;
+    color: rgb(118, 118, 129);
+}
